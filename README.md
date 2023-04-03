@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--👋Hi, i'm Sergio from SAYNA. It's digital school to learn all digitals jobs wit a good family spirit and game way. 
+- -👋Hi, i'm Sergio from SAYNA. It's digital school to learn all digitals jobs wit a good family spirit and game way. 
 - 👀I'm interested in code, i'm in my fourth year in software engineering.
 - 🌱 I’m currently learning all things about development to get the most knowledge possible.
 - 👯 I’m looking to collaborate on many projects to see all the methodoly development in the world, good luck for me!
